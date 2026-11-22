@@ -1,0 +1,6 @@
+@IT_Q2_32E2_Antonio_MarcKevin_HostAddress = http://localhost:5294
+
+GET {{IT_Q2_32E2_Antonio_MarcKevin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
